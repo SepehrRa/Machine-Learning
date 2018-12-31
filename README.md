@@ -1,6 +1,7 @@
 # Machine-Learning
-Machine Learning Exercises 
-Hello, everyone,
+
+Hello Everyone,
+
 I uploaded my homework of machine learning online course which is represented by Professor NJ from Stanford University. 
 
 All codes can be run by MATLAB/Octave (4.4.0 or higher) and to give more information about each practice one document file is prepared.
