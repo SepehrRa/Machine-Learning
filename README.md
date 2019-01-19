@@ -45,3 +45,7 @@ HW7: K means Clustering & Principal Component Analysis (PCA).
 In this exercise, I implemented the K-means algorithm and used it for image compression. Firstly it helped me gain an intuition of how the K-means algorithm works. After that, I used the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image. 
 Next, I used principal component analysis (PCA) to perform dimensionality reduction. I first experiment with an example 2D dataset to get intuition on how PCA works and then use it on a bigger dataset of 5000 face image dataset.
 
+HW8: Anomaly Detection and Recommender Systems
+
+Anomaly detection is a useful algorithm to find and ignore the data which is abnormal. It can help us to improve our algorithm performance. In this exercise, I implemented an anomaly detection algorithm to detect anomalous behavior in server computers. The features measure the throughput (MB/s) and latency (ms) of the response of each server.
+In the next part, I used collaborative filltering to build a recommender system for movies. This system will recommend new movies based on the movies which users rate previously. 
